@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private int op2;
     private int flagAction;
     private double result;
-
+    //
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
